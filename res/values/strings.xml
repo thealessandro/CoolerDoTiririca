@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cooler do Tiririca</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_about">Sobre</string>
+    <string name="action_share">Compartilhar</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="versão_codigo">Versão 1.0.1</string>
+    <string name="desenvolvido">Desenvolvido por Kyxadious</string>
+    <string name="email">kyxadious@gmail.com</string>
+
+</resources>

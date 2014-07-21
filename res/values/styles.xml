@@ -1,0 +1,27 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+    
+    
+    <style name="CustomTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <!-- Support Library compatibility -->
+        <item name="actionBarStyle">@style/MyActionBar</item>
+        
+        <item name="android:windowBackground">@color/color_background</item>
+        
+        
+    </style>
+
+    
+    
+    <!-- ActionBar styles -->
+    <style name="MyActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="android:background">@drawable/ic_bg_stripe</item>
+        
+        <!-- Support Library compatibility -->
+        <item name="background">@drawable/ic_bg_stripe</item>
+    </style>
+ 
+    <!-- Cor do background -->
+    <color name="color_background">#779097</color>
+    
+</resources>
