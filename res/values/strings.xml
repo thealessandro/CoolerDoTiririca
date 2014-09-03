@@ -7,8 +7,9 @@
     <string name="action_about">Sobre</string>
     <string name="action_share">Compartilhar</string>
     <string name="title_activity_sobre">Sobre</string>
-    <string name="versão_codigo">Versão 1.0.1</string>
+    <string name="versão_codigo">Versão 1.0.2</string>
     <string name="desenvolvido">Desenvolvido por Kyxadious</string>
     <string name="email">kyxadious@gmail.com</string>
+    <string name="ad_unit_id">ca-app-pub-2404629022505297/9746885760</string>
 
 </resources>
