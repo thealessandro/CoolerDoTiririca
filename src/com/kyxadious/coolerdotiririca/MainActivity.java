@@ -56,8 +56,8 @@ public class MainActivity extends ActionBarActivity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		
-		CustomBroadcastReceiver customBroadcastReceiver = new CustomBroadcastReceiver();
-		registerReceiver(customBroadcastReceiver, new IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION));
+		//CustomBroadcastReceiver customBroadcastReceiver = new CustomBroadcastReceiver();
+		//registerReceiver(customBroadcastReceiver, new IntentFilter(ConnectivityManager.CONNECTIVITY_ACTION));
 				
 		/* Criando o diretório CoolerDoTiririca */
 		File directory = new File(Environment.getExternalStorageDirectory() + "/CoolerDoTiririca");
